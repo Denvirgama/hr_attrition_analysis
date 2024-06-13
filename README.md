@@ -1,7 +1,8 @@
 # hr_attrition_analysis
 DSC424 Milestone 5 Final Project: HR Attrition Data
 Author: JITEN MISHRA, Team (Data Crew)
- 
+https://www.youtube.com/watch?v=MzGdwk5xsjA
+
 Milestone 3 Review:
 Initial Hypothesis:
 From the milestone 3 visual plots we inferred that Male person who is doing more overtime and is Single has more no of Attrition and probably has a low income. Which we need to analyze more in our final project. We do Also see a significant Attrition rate in young employees which is a sector to analyze more.
