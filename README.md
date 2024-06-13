@@ -44,13 +44,8 @@ For elasticnet we ran a for loop with a range of alpha 0 to 1 with an increment 
 Performance Comparison of Models
 From the Performance matrix we see Lasso is doing slightly better than all other model which is also reported in elastic net.
  
-Model                 Sensitivity Accuracy  Precision Specificity 
-LogisticTest         0.7342857   0.6954103  0.6710183   0.6585366
-RegSubsetTest_adjr2  0.7342857   0.6954103  0.6710183  0.6585366
-RegSubsetTest_bic    0.7342857   0.6912378 0.672043   0.6693767
-RidgeTest            0.7285714   0.6884562 0.6640625  0.6504065
-LassoTest            0.7371429   0.6954103  0.6701299  0.6558266
-ElasticNetTest        0.7371429  0.6954103  0.6701299  0.6558266
+<img width="309" alt="image" src="https://github.com/jitendra3010/hr_attrition_analysis/assets/53829596/6d916079-8503-4463-8a5e-f200bbc4a637">
+
  
 Conclusion: So, if we look at the model equation, we have some of the highest coefficients for RC8 which is a factor of Overtime With research scientist, RC3 which is factor of Sales and marketing people,RC2 which is a factor of HR Profile, RC6 effecting negatively which is a factor of Manager Profile. These all factor has a significant influence on the attrition which is kind of supporting our initial hypothesis.
 [NOTE: More details in the final Report]
