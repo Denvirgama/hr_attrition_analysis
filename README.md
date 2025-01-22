@@ -1,6 +1,6 @@
 # hr_attrition_analysis
 DSC424 Milestone 5 Final Project: HR Attrition Data
-Author: JITEN MISHRA, Team (Data Crew)
+Author: Denvir Gama, Team (Data Crew)
 https://www.youtube.com/watch?v=MzGdwk5xsjA
 
 Milestone 3 Review:
